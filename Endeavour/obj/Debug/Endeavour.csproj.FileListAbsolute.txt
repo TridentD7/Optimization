@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Documents\Visual Studio 2015\Projects\EndeavourTest\Endeavour\obj\Debug\Endeavour.csprojResolveAssemblyReference.cache
+C:\Users\Пользователь\Documents\Visual Studio 2015\Projects\EndeavourTest\Endeavour\obj\Debug\Endeavour.EVF.resources
+C:\Users\Пользователь\Documents\Visual Studio 2015\Projects\EndeavourTest\Endeavour\obj\Debug\Endeavour.csproj.GenerateResource.Cache
+C:\Users\Пользователь\Documents\Visual Studio 2015\Projects\EndeavourTest\Endeavour\bin\Debug\Endeavour.dll
+C:\Users\Пользователь\Documents\Visual Studio 2015\Projects\EndeavourTest\Endeavour\bin\Debug\Endeavour.pdb
+C:\Users\Пользователь\Documents\Visual Studio 2015\Projects\EndeavourTest\Endeavour\obj\Debug\Endeavour.dll
+C:\Users\Пользователь\Documents\Visual Studio 2015\Projects\EndeavourTest\Endeavour\obj\Debug\Endeavour.pdb
+D:\Хранилище\OneDrive\Projects\EndeavourTest\Endeavour\bin\Debug\Endeavour.dll
+D:\Хранилище\OneDrive\Projects\EndeavourTest\Endeavour\bin\Debug\Endeavour.pdb
+D:\Хранилище\OneDrive\Projects\EndeavourTest\Endeavour\obj\Debug\Endeavour.EVF.resources
+D:\Хранилище\OneDrive\Projects\EndeavourTest\Endeavour\obj\Debug\Endeavour.csproj.GenerateResource.Cache
+D:\Хранилище\OneDrive\Projects\EndeavourTest\Endeavour\obj\Debug\Endeavour.dll
+D:\Хранилище\OneDrive\Projects\EndeavourTest\Endeavour\obj\Debug\Endeavour.pdb
+D:\Хранилище\OneDrive\Projects\EndeavourTest\Endeavour\obj\Debug\Endeavour.csprojAssemblyReference.cache
+D:\Хранилище\OneDrive\Projects\EndeavourTest\Endeavour\obj\Debug\Endeavour.csproj.CoreCompileInputs.cache

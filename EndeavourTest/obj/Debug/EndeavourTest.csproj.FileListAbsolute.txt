@@ -1,0 +1,24 @@
+c:\users\пользователь\documents\visual studio 2015\Projects\EndeavourTest\EndeavourTest\bin\Debug\EndeavourTest.exe.config
+C:\Users\Пользователь\Documents\Visual Studio 2015\Projects\EndeavourTest\EndeavourTest\obj\Debug\EndeavourTest.csprojResolveAssemblyReference.cache
+C:\Users\Пользователь\Documents\Visual Studio 2015\Projects\EndeavourTest\EndeavourTest\obj\Debug\EndeavourTest.Form1.resources
+C:\Users\Пользователь\Documents\Visual Studio 2015\Projects\EndeavourTest\EndeavourTest\obj\Debug\EndeavourTest.Properties.Resources.resources
+C:\Users\Пользователь\Documents\Visual Studio 2015\Projects\EndeavourTest\EndeavourTest\obj\Debug\EndeavourTest.csproj.GenerateResource.Cache
+C:\Users\Пользователь\Documents\Visual Studio 2015\Projects\EndeavourTest\EndeavourTest\bin\Debug\EndeavourTest.exe
+C:\Users\Пользователь\Documents\Visual Studio 2015\Projects\EndeavourTest\EndeavourTest\bin\Debug\EndeavourTest.pdb
+C:\Users\Пользователь\Documents\Visual Studio 2015\Projects\EndeavourTest\EndeavourTest\bin\Debug\Endeavour.dll
+C:\Users\Пользователь\Documents\Visual Studio 2015\Projects\EndeavourTest\EndeavourTest\bin\Debug\Endeavour.pdb
+C:\Users\Пользователь\Documents\Visual Studio 2015\Projects\EndeavourTest\EndeavourTest\obj\Debug\EndeavourTest.exe
+C:\Users\Пользователь\Documents\Visual Studio 2015\Projects\EndeavourTest\EndeavourTest\obj\Debug\EndeavourTest.pdb
+D:\Хранилище\OneDrive\Projects\EndeavourTest\EndeavourTest\bin\Debug\EndeavourTest.exe.config
+D:\Хранилище\OneDrive\Projects\EndeavourTest\EndeavourTest\bin\Debug\EndeavourTest.exe
+D:\Хранилище\OneDrive\Projects\EndeavourTest\EndeavourTest\bin\Debug\EndeavourTest.pdb
+D:\Хранилище\OneDrive\Projects\EndeavourTest\EndeavourTest\bin\Debug\Endeavour.dll
+D:\Хранилище\OneDrive\Projects\EndeavourTest\EndeavourTest\bin\Debug\Endeavour.pdb
+D:\Хранилище\OneDrive\Projects\EndeavourTest\EndeavourTest\obj\Debug\EndeavourTest.Form1.resources
+D:\Хранилище\OneDrive\Projects\EndeavourTest\EndeavourTest\obj\Debug\EndeavourTest.Properties.Resources.resources
+D:\Хранилище\OneDrive\Projects\EndeavourTest\EndeavourTest\obj\Debug\EndeavourTest.csproj.GenerateResource.Cache
+D:\Хранилище\OneDrive\Projects\EndeavourTest\EndeavourTest\obj\Debug\EndeavourTest.exe
+D:\Хранилище\OneDrive\Projects\EndeavourTest\EndeavourTest\obj\Debug\EndeavourTest.pdb
+D:\Хранилище\OneDrive\Projects\EndeavourTest\EndeavourTest\obj\Debug\EndeavourTest.csprojAssemblyReference.cache
+D:\Хранилище\OneDrive\Projects\EndeavourTest\EndeavourTest\obj\Debug\EndeavourTest.csproj.CoreCompileInputs.cache
+D:\Хранилище\OneDrive\Projects\EndeavourTest\EndeavourTest\obj\Debug\EndeavourTest.csproj.CopyComplete

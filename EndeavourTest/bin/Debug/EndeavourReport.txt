@@ -1,0 +1,111 @@
+Report of 'Endevaur' optimisation module
+
+'History length' parameter of algorithm: 5
+Variable parameters quantity: 100
+Stop criterion: 400
+
+Elapsed time: 00:00:16.7038984
+Target function was calculated: 488106
+Target function best value: 0,00528102081040217
+Arguments on border: 0
+
+Var parameter # 0 min=-200 max=200 border=False result=-0,00201445802082389
+Var parameter # 1 min=-200 max=200 border=False result=0,0107216920862925
+Var parameter # 2 min=-200 max=200 border=False result=0,00131415429561343
+Var parameter # 3 min=-200 max=200 border=False result=0,00436540898925841
+Var parameter # 4 min=-200 max=200 border=False result=0,00420505639505109
+Var parameter # 5 min=-200 max=200 border=False result=0,005234112594934
+Var parameter # 6 min=-200 max=200 border=False result=0,000141211206596381
+Var parameter # 7 min=-200 max=200 border=False result=0,0094140457498213
+Var parameter # 8 min=-200 max=200 border=False result=-0,00151447532087445
+Var parameter # 9 min=-200 max=200 border=False result=0,00462190689401609
+Var parameter # 10 min=-200 max=200 border=False result=-0,00608135837782697
+Var parameter # 11 min=-200 max=200 border=False result=0,0165023853873834
+Var parameter # 12 min=-200 max=200 border=False result=-0,00382233056149062
+Var parameter # 13 min=-200 max=200 border=False result=-0,00935217254692589
+Var parameter # 14 min=-200 max=200 border=False result=-0,01996611368358
+Var parameter # 15 min=-200 max=200 border=False result=0,0062812955833067
+Var parameter # 16 min=-200 max=200 border=False result=-0,0111548764848521
+Var parameter # 17 min=-200 max=200 border=False result=0,00111245589775422
+Var parameter # 18 min=-200 max=200 border=False result=0,00334361078114398
+Var parameter # 19 min=-200 max=200 border=False result=0,0127451147255613
+Var parameter # 20 min=-200 max=200 border=False result=0,0081524807364417
+Var parameter # 21 min=-200 max=200 border=False result=-0,00731853392707649
+Var parameter # 22 min=-200 max=200 border=False result=0,0104078735460291
+Var parameter # 23 min=-200 max=200 border=False result=-0,00225849840651904
+Var parameter # 24 min=-200 max=200 border=False result=-0,00308955996720783
+Var parameter # 25 min=-200 max=200 border=False result=-0,00241404735518813
+Var parameter # 26 min=-200 max=200 border=False result=-0,000554215828685756
+Var parameter # 27 min=-200 max=200 border=False result=-0,00175169005927955
+Var parameter # 28 min=-200 max=200 border=False result=-0,000786071234983865
+Var parameter # 29 min=-200 max=200 border=False result=-0,000206580749733121
+Var parameter # 30 min=-200 max=200 border=False result=0,00408218641845792
+Var parameter # 31 min=-200 max=200 border=False result=0,00599903523362855
+Var parameter # 32 min=-200 max=200 border=False result=-0,00242558273481563
+Var parameter # 33 min=-200 max=200 border=False result=0,00354641830355718
+Var parameter # 34 min=-200 max=200 border=False result=0,0083587916465433
+Var parameter # 35 min=-200 max=200 border=False result=0,00431211938649767
+Var parameter # 36 min=-200 max=200 border=False result=0,00625804967228305
+Var parameter # 37 min=-200 max=200 border=False result=0,0068333024719891
+Var parameter # 38 min=-200 max=200 border=False result=0,00135245075156831
+Var parameter # 39 min=-200 max=200 border=False result=-0,0201036984866789
+Var parameter # 40 min=-200 max=200 border=False result=-0,00181256950489228
+Var parameter # 41 min=-200 max=200 border=False result=0,00886090290021002
+Var parameter # 42 min=-200 max=200 border=False result=-0,0113381632436926
+Var parameter # 43 min=-200 max=200 border=False result=-0,00696014991214611
+Var parameter # 44 min=-200 max=200 border=False result=0,00258972053543971
+Var parameter # 45 min=-200 max=200 border=False result=-0,000267365257059282
+Var parameter # 46 min=-200 max=200 border=False result=-0,0102899427898535
+Var parameter # 47 min=-200 max=200 border=False result=-0,00581410408202032
+Var parameter # 48 min=-200 max=200 border=False result=0,0076202445415845
+Var parameter # 49 min=-200 max=200 border=False result=-0,00706734871292269
+Var parameter # 50 min=-200 max=200 border=False result=0,00107745153349015
+Var parameter # 51 min=-200 max=200 border=False result=-0,00238295578537873
+Var parameter # 52 min=-200 max=200 border=False result=0,00188953632184052
+Var parameter # 53 min=-200 max=200 border=False result=-0,000369131344683638
+Var parameter # 54 min=-200 max=200 border=False result=-0,00407167798914543
+Var parameter # 55 min=-200 max=200 border=False result=-0,00360949207092176
+Var parameter # 56 min=-200 max=200 border=False result=-0,0180840400074374
+Var parameter # 57 min=-200 max=200 border=False result=0,00608891460888117
+Var parameter # 58 min=-200 max=200 border=False result=0,0163985580334725
+Var parameter # 59 min=-200 max=200 border=False result=-6,63965572016423E-05
+Var parameter # 60 min=-200 max=200 border=False result=-0,00997586145720675
+Var parameter # 61 min=-200 max=200 border=False result=-0,00956120441233566
+Var parameter # 62 min=-200 max=200 border=False result=-0,0109528223817108
+Var parameter # 63 min=-200 max=200 border=False result=0,00413613349056163
+Var parameter # 64 min=-200 max=200 border=False result=0,00571777678581498
+Var parameter # 65 min=-200 max=200 border=False result=-0,0105958576261287
+Var parameter # 66 min=-200 max=200 border=False result=-0,01071797497886
+Var parameter # 67 min=-200 max=200 border=False result=-0,00725950515126783
+Var parameter # 68 min=-200 max=200 border=False result=-0,00477817533669622
+Var parameter # 69 min=-200 max=200 border=False result=0,00823219390713348
+Var parameter # 70 min=-200 max=200 border=False result=-0,00134798838811889
+Var parameter # 71 min=-200 max=200 border=False result=-0,00337189883177302
+Var parameter # 72 min=-200 max=200 border=False result=-0,0118745526053203
+Var parameter # 73 min=-200 max=200 border=False result=-0,000333530298831874
+Var parameter # 74 min=-200 max=200 border=False result=-0,00608974530311457
+Var parameter # 75 min=-200 max=200 border=False result=-0,0042490839412892
+Var parameter # 76 min=-200 max=200 border=False result=0,000360461923236244
+Var parameter # 77 min=-200 max=200 border=False result=0,00249709362662998
+Var parameter # 78 min=-200 max=200 border=False result=-0,01360913440692
+Var parameter # 79 min=-200 max=200 border=False result=0,00230593113229816
+Var parameter # 80 min=-200 max=200 border=False result=0,00344248556558568
+Var parameter # 81 min=-200 max=200 border=False result=0,00083396999946217
+Var parameter # 82 min=-200 max=200 border=False result=0,00266772939176008
+Var parameter # 83 min=-200 max=200 border=False result=0,00652062466139114
+Var parameter # 84 min=-200 max=200 border=False result=0,00444171699047047
+Var parameter # 85 min=-200 max=200 border=False result=-0,00320635186884033
+Var parameter # 86 min=-200 max=200 border=False result=-0,000363072664072206
+Var parameter # 87 min=-200 max=200 border=False result=-0,0017712523291209
+Var parameter # 88 min=-200 max=200 border=False result=-0,016116896733962
+Var parameter # 89 min=-200 max=200 border=False result=0,00550305886866909
+Var parameter # 90 min=-200 max=200 border=False result=0,00441557436627704
+Var parameter # 91 min=-200 max=200 border=False result=-0,00285755017992528
+Var parameter # 92 min=-200 max=200 border=False result=-0,00286036731816353
+Var parameter # 93 min=-200 max=200 border=False result=-0,00466150932717824
+Var parameter # 94 min=-200 max=200 border=False result=-0,00471195757728538
+Var parameter # 95 min=-200 max=200 border=False result=0,000210174692796272
+Var parameter # 96 min=-200 max=200 border=False result=-0,0109127454276177
+Var parameter # 97 min=-200 max=200 border=False result=0,00398394531936219
+Var parameter # 98 min=-200 max=200 border=False result=0,002350889288806
+Var parameter # 99 min=-200 max=200 border=False result=0,00102531188485955
